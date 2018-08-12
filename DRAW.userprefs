@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\UI_gameSystem.cs">
+    <Files>
+      <File FileName="Assets\scripts\UI_LoginSystem.cs" Line="8" Column="2" />
+      <File FileName="Assets\scripts\game\HeroRun.cs" Line="131" Column="46" />
+      <File FileName="Assets\scripts\UI_gameSystem.cs" Line="113" Column="35" />
+      <File FileName="Assets\scripts\test.cs" Line="14" Column="3" />
+      <File FileName="Assets\scripts\UI_LoadingSyetem.cs" Line="21" Column="3" />
+      <File FileName="Assets\scripts\game\MapBuilder.cs" Line="147" Column="55" />
+      <File FileName="Assets\scripts\UI_SelectSystem.cs" Line="51" Column="26" />
+      <File FileName="Assets\scripts\game\MyCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\game\GlobalMap.cs" Line="168" Column="1" />
+      <File FileName="Assets\scripts\CYWGlobal.cs" Line="5" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
